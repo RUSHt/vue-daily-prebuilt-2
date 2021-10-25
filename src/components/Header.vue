@@ -2,8 +2,8 @@
   <header class="header-container row">
     <div class="wrapper row">
       <div class="row">
-        <img class="logo" alt="Daily logo" src="../assets/logo.png" />
-        <h1>Daily Prebuilt demo</h1>
+        <img class="logo" alt="Daily logo" src="../assets/ssr-pulse-logo.png" />
+        <h1>HERE's a WebRTC Thing to use for WebCasts</h1>
       </div>
       <div class="row">
         <a
