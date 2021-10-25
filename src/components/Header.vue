@@ -3,9 +3,9 @@
     <div class="wrapper row">
       <div class="row">
         <img class="logo" alt="Daily logo" src="../assets/ssr-pulse-logo.png" />
-        <h1>HERE's a WebRTC Thing to use for WebCasts</h1>
+        <h1>Here's a WebRTC Thing to use for WebCasts</h1>
       </div>
-      <div class="row">
+      <div class="row" style="display: none;">
         <a
           class="buttonish"
           target="_blank"
@@ -13,7 +13,7 @@
           >API docs</a
         >
         <span class="divider"></span>
-        <a target="_blank" href="https://github.com/daily-demos/prebuilt-ui"
+        <a style="display: none;" target="_blank" href="https://github.com/daily-demos/prebuilt-ui"
           ><img class="icon" alt="Vue logo" src="../assets/github_logo.png"
         /></a>
       </div>
@@ -43,9 +43,9 @@ h1 {
   padding: 4px 0 4px 24px;
 }
 .logo {
-  width: 60px;
-  height: 24px;
+  width: 133px;
   margin-right: 24px;
+  background-color: #2c3e50;
 }
 .divider {
   background: var(--grey);
